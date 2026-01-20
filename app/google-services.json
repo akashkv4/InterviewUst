@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "891624445511",
+    "project_id": "interview-e88c3",
+    "storage_bucket": "interview-e88c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891624445511:android:44b696875c4fe124cfc362",
+        "android_client_info": {
+          "package_name": "com.flutterkada.interview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891624445511-0i05kdf9tpej7vb5b04katgavbmbton5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterkada.interview",
+            "certificate_hash": "a4f07a1232bdfecd6cd532613b8dfb428114e8f7"
+          }
+        },
+        {
+          "client_id": "891624445511-vsgbdrk9gnrpf28v1q0l78lh9gj0d7a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKjAF5rAw6Zeb3hUWl7AtIHV6_rBQWdMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891624445511-vsgbdrk9gnrpf28v1q0l78lh9gj0d7a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
